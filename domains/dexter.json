@@ -1,0 +1,10 @@
+{
+  "description": "Personal project website",
+  "repo": "https://github.com/igori19993/dexter-site",
+  "owner": {
+    "username": "igori19993"
+  },
+  "record": {
+    "CNAME": "igori19993.github.io"
+  }
+}
